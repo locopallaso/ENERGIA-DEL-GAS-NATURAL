@@ -1,6 +1,3 @@
-# Energia-renovable
-<p>&nbsp;</p>
-<p></p>
 <section id="gas-natural">
 <h2 style="text-align: center;">Energia del gas natural</h2>
 <p style="text-align: justify;">El <strong>gas natural</strong> &eacute;s un combustible f&ograve;ssil format principalment per <strong>met&agrave; (CH₄)</strong>. Es troba sota terra, sovint a prop de jaciments de petroli.</p>
