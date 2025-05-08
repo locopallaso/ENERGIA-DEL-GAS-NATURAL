@@ -1,4 +1,4 @@
-<p style="text-align: justify;">El <strong>gas natural</strong> &eacute;s un combustible f&ograve;ssil que est&agrave; compost per <strong>met&agrave; (CH₄)</strong>. Aquest tipus de combustble el podem trobar sota terra, sovint a prop de jaciments de petroli.</p>
+<p style="text-align: justify;">El <strong>gas natural</strong> &eacute;s un combustible f&ograve;ssil que est&agrave; compost per <strong>met&agrave; (CH₄)</strong>. Aquest tipus de combustible el podem trobar sota terra, sovint a prop de jaciments de petroli.</p>
 <h3 style="text-align: justify;">Com es fa servir?</h3>
 <ul style="text-align: justify;">
 <li>Es crema per tal de <strong>produir calor</strong> (en calderes, cuines, calefacci&oacute;...).</li>
